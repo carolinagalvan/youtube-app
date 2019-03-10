@@ -1,0 +1,10 @@
+h1, form{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
